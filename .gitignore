@@ -1,0 +1,26 @@
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore specific to React App (frontend)
+/app/node_modules/
+/app/build/
+/app/.env.local
+/app/.vscode/
+/app/.idea/
+/app/*.code-workspace
+/app/package-lock.json
+
+
+# Ignore specific to Node.js API (backend)
+/api/node_modules/
+/api/.env
+/api/.vscode/
+/api/.idea/
+/api/*.code-workspace
+/api/package-lock.json

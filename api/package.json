@@ -1,0 +1,14 @@
+{
+  "name": "tic-tac-toe-api",
+  "version": "0.0.1",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^10.0.0",
+    "ws": "^7.4.5"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
