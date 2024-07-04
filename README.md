@@ -61,7 +61,7 @@ To run the project locally, follow these steps:
 
 3. **Install dependencies & Run UI**:
    ```bash
-   cd app
+   cd ../app
    npm install
    npm run dev
 
